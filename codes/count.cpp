@@ -37,7 +37,7 @@ int main()
     cout << "Vowels: " << vowels << endl;
     cout << "Consonants: " << consonants << endl;
     cout << "Digits: " << digits << endl;
-    cout << "White spaces: " << spaces << endl;
+    cout << "spaces: " << spaces << endl;
 
     return 0;
 }

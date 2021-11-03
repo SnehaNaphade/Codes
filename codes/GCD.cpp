@@ -8,7 +8,7 @@ int main()
     int num1,num2,gcd;
     cout<<"Enter First Number: ";
     cin>>num1;
-    cout<<"Enter Seconf Number: ";
+    cout<<"Enter Second Number: ";
     cin>>num2;
     for(int i=1;i<=num1 && i<=num2;i++)
     {

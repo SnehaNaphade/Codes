@@ -1,4 +1,4 @@
-//c program to find n th term of fibonacci series
+//c program to find n th term of fibonacci series using recursive function
 
 #include<stdio.h>
 int fib(int n);
